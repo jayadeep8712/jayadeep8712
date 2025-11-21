@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- 1. The Visual Header -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,20:FF6B9D,40:CC6DFF,60:6D7AFF,80:6DFFDE,100:8BFF6D&height=220&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=220&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
 
   <!-- 2. The Dynamic Intro -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
