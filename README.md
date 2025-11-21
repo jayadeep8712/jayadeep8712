@@ -208,19 +208,3 @@ graph TD
 ![Visitors](https://komarev.com/ghpvc/?username=Jayadeep8712&color=blueviolet&style=flat-square)
 
 </div>
-
-<!--
-**Jayadeep8712/Jayadeep8712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<style>
-  .capsule-render {
-    border-radius: 20px;
-  }
-  
-  .stats-card {
-    border-radius: 15px;
-    padding: 10px;
-    margin: 5px;
-  }
-</style>
