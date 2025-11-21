@@ -250,7 +250,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <div align="center">
 
-![Snake Animation](https://github.com/Jayadeep8712/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
