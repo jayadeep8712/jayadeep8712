@@ -5,19 +5,19 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=220&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
 
   <!-- 2. The Dynamic Intro -->
- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0984E3&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00CEC9&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
 
   <br>
 
   <!-- 3. The Stats Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=7E3ACE&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=00CEC9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/Jayadeep8712?color=7E3ACE&label=FOLLOWERS&style=for-the-badge" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Jayadeep8712?color=00CEC9&label=FOLLOWERS&style=for-the-badge" alt="followers" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/Jayadeep8712?color=7E3ACE&label=STARS+EARNED&style=for-the-badge" alt="stars" />
+    <img src="https://img.shields.io/github/stars/Jayadeep8712?color=00CEC9&label=STARS+EARNED&style=for-the-badge" alt="stars" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/last-commit/Jayadeep8712/Jayadeep8712?color=7E3ACE&label=LAST+UPDATE&style=for-the-badge" alt="last commit" />
+    <img src="https://img.shields.io/github/last-commit/Jayadeep8712/Jayadeep8712?color=00CEC9&label=LAST+UPDATE&style=for-the-badge" alt="last commit" />
   </p>
 
 </div>
@@ -267,7 +267,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **Thanks for stopping by! Let's build something amazing together!** 🚀
 
-<img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=7E3ACE&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=00CEC9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
