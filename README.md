@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5FBF,100:6C4AB6&height=220&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
 
   <!-- 2. The Dynamic Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
 
   <br>
 
@@ -250,7 +250,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <div align="center">
 
-![Snake Animation](https://github.com/Jayadeep8712/Jayadeep8712/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Jayadeep8712/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -278,5 +278,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 *"The best way to predict the future is to invent it." - Alan Kay*
 
 </div>
-
-**This code is now 100% functional and will display all your real GitHub data!** 🎉
