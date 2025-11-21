@@ -397,7 +397,6 @@ graph LR
 
 </div>
 
-<br>
 
 ## 📫 Let's Connect & Collaborate
 
@@ -405,9 +404,9 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayadeep-pendela-100278225/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pendelajayadeep@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Jayadeep8712)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayadeep8712)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-097?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Jayadeep8712)
+[![GitHub](https://img.shields.io/badge/GitHub-334?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayadeep8712)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com)
 </div>
 
 <br>
@@ -422,7 +421,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </div>
 
-<br>
 
 ## 🎮 Fun Section
 
@@ -441,7 +439,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=100&section=footer&reversal=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=130&section=footer&reversal=true)
 
 **Thanks for stopping by! Let's build something amazing together!** 🚀
 
