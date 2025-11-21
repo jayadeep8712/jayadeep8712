@@ -1,27 +1,24 @@
 # 💫 About Me
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5FBF,100:6C4AB6&height=200&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70)
+  <!-- 1. The Visual Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5FBF,100:6C4AB6&height=220&section=header&text=Jayadeep%20Pendela&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
 
-</div>
+  <!-- 2. The Dynamic Intro (I chose the Fira Code version, it looks more 'coder' like) -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
 
-<div align="center">
+  <br>
 
-<!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mono+Lisa&size=24&duration=4000&color=8B5FBF&center=true&vCenter=true&width=600&lines=🏢+Building+intelligent+solutions+with+AI+and+Computer+Vision+👁️;Full-Stack+Developer+with+ML+expertise;💡+Turning+ideas+into+real-world+applications;Passionate+about+scalable+and+efficient+systems)-->
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=80&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀)
-
-<!-- Profile Metrics Dashboard -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=7E3ACE&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Jayadeep8712?color=7E3ACE&label=FOLLOWERS&style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Jayadeep8712?color=7E3ACE&label=STARS+EARNED&style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/Jayadeep8712/Jayadeep8712?color=7E3ACE&label=LAST+UPDATE&style=for-the-badge" />
-</p>
+  <!-- 3. The Stats Badges (Side by Side with gaps) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=7E3ACE&style=for-the-badge&label=PROFILE+VIEWS" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/Jayadeep8712?color=7E3ACE&label=FOLLOWERS&style=for-the-badge" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/Jayadeep8712?color=7E3ACE&label=STARS+EARNED&style=for-the-badge" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/last-commit/Jayadeep8712/Jayadeep8712?color=7E3ACE&label=LAST+UPDATE&style=for-the-badge" />
+  </p>
 
 </div>
 
