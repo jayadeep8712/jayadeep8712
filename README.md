@@ -1,4 +1,3 @@
-# 💫 About Me
 <div align="center">
 
   <!-- 1. The Visual Header -->
@@ -22,6 +21,7 @@
 
 </div>
 
+<br>
 ## 🎯 What I Do
 
 ```python
@@ -50,6 +50,7 @@ dev = AIDeveloper()
 print(dev.get_quote())
 ```
 
+<br>
 ## 🛠️ **Technical Arsenal**
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages & Core Technologies
@@ -281,6 +282,7 @@ print(dev.get_quote())
 </tr>
 </table>
 
+<br>
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -302,6 +304,7 @@ print(dev.get_quote())
 
 </div>
 
+<br>
 ## 📈 Activity Graph
 
 <div align="center">
@@ -310,6 +313,7 @@ print(dev.get_quote())
 
 </div>
 
+<br>
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -318,6 +322,7 @@ print(dev.get_quote())
 
 </div>
 
+<br>
 ## 🎯 Current Focus & Roadmap
 
 ```mermaid
@@ -338,7 +343,7 @@ graph LR
     D --> D2[🏗️ System Architecture];
     D --> D3[📊 MLOps Pipelines];
 ```
-
+<br>
 ## 📊 Detailed Stats
 
 <div align="center">
@@ -351,6 +356,7 @@ graph LR
 
 </div>
 
+<br>
 ## 🎵 Coding Vibes
 
 <div align="center">
@@ -359,6 +365,7 @@ graph LR
 
 </div>
 
+<br>
 ## 🎨 Projects Showcase
 
 <div align="center">
@@ -371,6 +378,7 @@ graph LR
 
 </div>
 
+<br>
 ## 💡 Developer Quotes
 
 <div align="center">
@@ -379,6 +387,7 @@ graph LR
 
 </div>
 
+<br>
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -390,6 +399,7 @@ graph LR
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 </div>
 
+<br>
 ## 🌟 Support & Recognition
 
 <div align="center">
@@ -400,6 +410,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </div>
 
+<br>
 ## 🎮 Fun Section
 
 <div align="center">
@@ -410,6 +421,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <div align="center">
 
+<br>
 ### ⚡ **Did You Know?**
 *I once trained a model that could differentiate between 50+ coffee bean varieties with 95% accuracy! ☕🤖*
 
