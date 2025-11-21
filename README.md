@@ -45,16 +45,19 @@ Here is your tech stack reorganized into the requested segments, using the style
 🛠️ Tech Stack
 💻 Languages
 <div align="center">
+    
 ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
 🤖 AI, Data Science & Machine Learning
 <div align="center">
+    
 ![alt text](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![alt text](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![alt text](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -66,10 +69,12 @@ Here is your tech stack reorganized into the requested segments, using the style
 ![alt text](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![alt text](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![alt text](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue)
+
 </div>
 
 🌐 Web Development (Frontend & Backend)
 <div align="center">
+    
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![alt text](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -79,10 +84,12 @@ Here is your tech stack reorganized into the requested segments, using the style
 ![alt text](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![alt text](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![alt text](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 </div>
 
 🗄️ Databases & Cloud
 <div align="center">
+    
 ![alt text](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![alt text](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -91,10 +98,12 @@ Here is your tech stack reorganized into the requested segments, using the style
 ![alt text](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![alt text](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![alt text](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 </div>
 
 ⚙️ Tools, DevOps & Utilities
 <div align="center">
+    
 ![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -105,6 +114,7 @@ Here is your tech stack reorganized into the requested segments, using the style
 ![alt text](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![alt text](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![alt text](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 </div>
 
 
@@ -190,8 +200,6 @@ graph LR
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bg_color=0D1117&text_color=FFFFFF&qColor=7E3ACE&aColor=FFFFFF&borderColor=7E3ACE)
 
 </div>
 
@@ -281,28 +289,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--
 **Jayadeep8712/Jayadeep8712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<style>
-  .header-gradient {
-    background: linear-gradient(135deg, #7E3ACE 0%, #5C3EE8 100%);
-    border-radius: 20px;
-    padding: 20px;
-    margin: 10px 0;
-  }
-  
-  .stats-card {
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-    background: #0D1117;
-    border: 1px solid #7E3ACE;
-  }
-  
-  .tech-badge {
-    transition: transform 0.3s ease;
-  }
-  
-  .tech-badge:hover {
-    transform: translateY(-2px);
-  }
-</style>
