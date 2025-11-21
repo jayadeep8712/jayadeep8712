@@ -8,7 +8,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mono+Lisa&size=24&duration=4000&color=8B5FBF&center=true&vCenter=true&width=600&lines=🏢+Building+intelligent+solutions+with+AI+and+Computer+Vision+👁️;Full-Stack+Developer+with+ML+expertise;💡+Turning+ideas+into+real-world+applications;Passionate+about+scalable+and+efficient+systems)
+<!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mono+Lisa&size=24&duration=4000&color=8B5FBF&center=true&vCenter=true&width=600&lines=🏢+Building+intelligent+solutions+with+AI+and+Computer+Vision+👁️;Full-Stack+Developer+with+ML+expertise;💡+Turning+ideas+into+real-world+applications;Passionate+about+scalable+and+efficient+systems)-->
+
+![Dynamic SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=80&lines=👋+Hello+World!+I'm+Jayadeep;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀)
 
 </div>
 
@@ -186,15 +188,6 @@ graph LR
 
 </div>
 
-
-## 📊 GitHub Profile Summary Cards
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayadeep8712&theme=radical)
-
-</div>
-
 ## 🎵 Coding Vibes
 
 <div align="center">
@@ -252,14 +245,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </div>
 
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **"I don't just write code; I build solutions that learn, adapt, and make an impact."**
-
-</div>
-
 ---
 
 <div align="center">
@@ -276,7 +261,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Visitors](https://komarev.com/ghpvc/?username=Jayadeep8712&color=7E3ACE&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
 
 ---
 
